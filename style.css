@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0 10px;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.col-md-6 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+h1, h2, h3, h4, p {
+  color: #fff;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Quicksand;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 300px;
+}
+
+.green {
+  background: #2D2A28;
+  padding: 20px;
+  height:50vh;
+}
+
+.blue {
+  background: #449DDC;
+  padding: 20px;
+  height:50vh;
+}
+
+.red {
+  background: #EF8E16;
+  padding: 20px;
+  height:50vh;
+}
+
+.yellow {
+  background: #C1110B;
+  padding: 20px;
+  height:50vh;
+}
