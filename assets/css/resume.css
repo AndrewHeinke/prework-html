@@ -2,7 +2,9 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #333333;
-  background: #F49D37;
+  /*background: #F49D37;*/
+  /*background: url('../images/geometry2.png') repeat;*/
+    background: url('../images/geometry-BG.jpg') repeat;
   font-size: 16px;
   padding: 20px 0px 0px;
   -webkit-font-smoothing: antialiased;
